@@ -7,6 +7,11 @@ This project is a Newsletter Subscription Form with email validation. The form a
 2. Success message displayed upon successful subscription.
 3. The user receives a confirmation email with a subscription link (simulated in the project).
 
-## installation
+## Installation
 
-1. Clone the repo: 
+1. Clone the repo: 'https://github.com/Luka12A/newsletter-sign-up-with-success-message-main.git'
+2. Navigate to the folder: 'cd newsletter-sign-up-with-success-message-main'
+
+## Usage
+1. Navigate to the Vscode: 'Drag folder in the Vscode'
+2. Navigate to the index.html: 'open the folder in browser'
