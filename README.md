@@ -6,6 +6,7 @@ This project is a Newsletter Subscription Form with email validation. The form a
 1. Form with email validation to ensure the entered email is valid.
 2. Success message displayed upon successful subscription.
 3. The user receives a confirmation email with a subscription link (simulated in the project).
+4. Responsive Design
 
 ## Installation
 
