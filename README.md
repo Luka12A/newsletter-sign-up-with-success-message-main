@@ -15,4 +15,11 @@ This project is a Newsletter Subscription Form with email validation. The form a
 ## Usage
 1. Navigate to the Vscode: 'Drag folder in the Vscode'
 2. Navigate to the index.html: 'open the folder in browser'
+
+## Frist part
 ![Screenshot 2024-11-29 200915](https://github.com/user-attachments/assets/a86e93cd-2d44-4de1-bb10-acc3db329305)
+
+
+## error handling
+
+![Screenshot 2024-11-29 201311](https://github.com/user-attachments/assets/fba70c8d-5cbb-4ddb-8a93-c996fdea92a8)
