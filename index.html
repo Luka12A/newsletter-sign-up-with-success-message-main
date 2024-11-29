@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
+  <title>Frontend Mentor | Newsletter sign-up form with success message</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <section class="success-main">
+    <div id="success-message-container">
+      <img src="assets/images/icon-success.svg" alt="icon-success-image">
+      <h1 class="thanks-title">Thanks for <br> subscribing!</h1>
+      <p>
+        A information email has been sent to <br>
+        <span class="personal-mail"></span> Please open it and click <br>
+        the button inside to confirm your subscription.
+      </p>
+      <button class="dismiss-btn">Dismiss message</button>
+    </div>
+  </section>
+  <div class="card">
+    <div class="wrapper-1">
+      <img src="assets/images/illustration-sign-up-desktop.svg" alt="">
+    </div>
+    <div class="wrapper-2">
+      <h1>Stay updated!</h1>
+      <p>
+        Join 60,000+ product managers receiving 
+        <br> <span>monthly updates on:</span> 
+      </p>
+      <div class="confirm-div">
+        <div class="confirm-div-list">
+          <img src="assets/images/icon-success.svg" alt="confirm-img">
+          <p>Product discovery and building what <br><span>matters</span> </p>
+        </div>
+        <div class="confirm-div-list">
+          <img src="assets/images/icon-success.svg" alt="confirm-img">
+          <p>Measuring to ensure updates are a <br><span> success</span></p>
+        </div>
+        <div class="confirm-div-list">
+          <img src="assets/images/icon-success.svg" alt="confirm-img">
+          <p>And much more!</p>
+        </div>
+        <div class="input-section">
+          <h4>Email address</h4>
+          <form>
+            <input type="text" placeholder="email@company.com" id="inpt">
+            <button class="subscribe-btn" type="submit">Subscribe to monthly newsletter</button>
+          </form>
+        </div>
+      </div>
+    </div>
+    </div>
+</div>
+<script src="app.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
+</body>
+</html>
