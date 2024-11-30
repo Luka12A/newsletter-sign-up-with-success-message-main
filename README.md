@@ -25,12 +25,11 @@ Upon successful subscription, the user will see a confirmation message.
 
 ## Project desktop preview
 
-![Screenshot 2024-11-29 201311](https://github.com/user-attachments/assets/4dded66c-b23a-4962-a706-9592783c005a)
-
+![Screenshot 2024-11-29 200915](https://github.com/user-attachments/assets/2cb37fb1-39e9-4a29-a63c-82722beddbf0)
 
 ## Project error states preview
 
-![Screenshot 2024-11-29 200915](https://github.com/user-attachments/assets/2cb37fb1-39e9-4a29-a63c-82722beddbf0)
+![Screenshot 2024-11-29 201311](https://github.com/user-attachments/assets/4dded66c-b23a-4962-a706-9592783c005a)
 
 
 
